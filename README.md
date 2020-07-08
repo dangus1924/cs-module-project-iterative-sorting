@@ -7,7 +7,9 @@
 ## Objectives
 
 - describe the differences between Linear and Binary Search algorithms
+    [A] The difference between Linear and BS is tha BS is much more effective than Linear in most cases because it takes less time to search an element than Linear. Linear checks the each element in a given array one by one in an sequential fashion to find if the element is present in the array. Binary is more effecient because it starts in the middle and then compare searches either from the left or from the right.
 - define what runtime complexity is, differentiate between various classifications and categorize the performance of an algorithm using Big O notation
+    [A] 
 - distinguish when to use, classify the performance, and implement code to conduct classic iterative sorting algorithms
 
 ## Introduction
